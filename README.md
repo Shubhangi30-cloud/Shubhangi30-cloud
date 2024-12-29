@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Pandey 👩</h1>
-<h3 align="center">A passionate Python developer🐍 and Technophile ❤</h3>
+<h3 align="center">A passionate Data Engineer and Technophile ❤</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Azure services** 
 
 - 🌱 I’m currently learning **Data Science**
 
