@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Azure services** 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Power BI**
 
 - 💬 Ask me about **Technical stuff**
 
